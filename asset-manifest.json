@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nnspecter/tic-tac-toe-firstReactProject/static/css/main.2cb9a270.css",
+    "main.js": "/nnspecter/tic-tac-toe-firstReactProject/static/js/main.dad8fc2e.js",
+    "index.html": "/nnspecter/tic-tac-toe-firstReactProject/index.html",
+    "main.2cb9a270.css.map": "/nnspecter/tic-tac-toe-firstReactProject/static/css/main.2cb9a270.css.map",
+    "main.dad8fc2e.js.map": "/nnspecter/tic-tac-toe-firstReactProject/static/js/main.dad8fc2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cb9a270.css",
+    "static/js/main.dad8fc2e.js"
+  ]
+}
